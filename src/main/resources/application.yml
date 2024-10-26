@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: test
+  security:
+    user:
+      name: Kaguya
+      password: 123
